@@ -1,7 +1,7 @@
 {
     "name": "react-wait-content",
     "version": "1.0.0",
-    "description": "Starting point for my React components libraries",
+    "description": "React component to delay children rendering to a determined load state of the page",
     "keywords": [
         "react",
         "delay",
@@ -71,5 +71,8 @@
         "react-dom": "^16.8.0",
         "prop-types": "^15.6.2",
         "react": "^16.8.0"
+    },
+    "dependencies": {
+        "react-delay-fallback": "1.0.2"
     }
 }
