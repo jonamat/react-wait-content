@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component matches the snapshot 1`] = `
+<div>
+  fallback snapshot
+</div>
+`;
+
+exports[`Component matches the snapshot 2`] = `
+<div>
+  child snapshot
+</div>
+`;
